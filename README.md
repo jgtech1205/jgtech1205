@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/justin-gant-401a91337" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="justin gant | Linkedin" /></a>
 <a href="https://github.com/jgtech1205" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="justin gant | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://justingant.com" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<a href="https://justingant.com" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif' width='280'></a>
 
 <h3>A Full Stack Engineer</h3>
 
