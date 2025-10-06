@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently learning **Expo**
 
-- 👨‍💻 All of my projects are available at [justingant.com/work](https://portfolio-orpin-two-91.vercel.app/work)
+- 👨‍💻 All of my projects are available at [justingant.com/work](https://portfolio-orpin-two-91.vercel.app/)
 
 - 💬 Ask me about next.js, node.js, typescript, framer motion
 
